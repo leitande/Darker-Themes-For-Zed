@@ -6,7 +6,7 @@ Custom darkened variants of popular Zed themes.
 
 ### Rosé Pine Darker
 
-A darkened version of the classic Rosé Pine theme. The original `#191724` base background has been deepened to `#100e19` across all UI layers for a more subdued editing experience.
+A darkened version of the classic Rosé Pine theme. The original `#191724` base background has been deepened to `#100e19` across all UI layers.
 
 **Credits:**
 - Original Rosé Pine theme by [Kainoa Kanter](https://github.com/thatonecalculator) and the [Rosé Pine community](https://github.com/rose-pine/rose-pine-theme)
@@ -14,7 +14,7 @@ A darkened version of the classic Rosé Pine theme. The original `#191724` base 
 
 ### Kanagawa Wave Darker & Kanagawa (no italics) Darker
 
-Darkened variants of the Kanagawa Wave theme. Backgrounds deepened by ~10 per RGB channel for a more subdued editing experience.
+Darkened variants of the Kanagawa Wave theme. Backgrounds deepened by ~10 per RGB channel.
 
 **Credits:**
 - Original Kanagawa theme by [rebelot](https://github.com/rebelot/kanagawa.nvim)
