@@ -6,7 +6,7 @@ Custom darkened variants of popular Zed themes.
 
 ### Rosé Pine Darker
 
-A darkened version of the classic Rosé Pine theme. The original `#191724` base background has been deepened to `#060411` across all UI layers.
+A darkened version of the classic Rosé Pine theme. The original `#191724` base background has been deepened to `#080613` across all UI layers.
 
 **Credits:**
 - Original Rosé Pine theme by [Kainoa Kanter](https://github.com/thatonecalculator) and the [Rosé Pine community](https://github.com/rose-pine/rose-pine-theme)
@@ -14,7 +14,7 @@ A darkened version of the classic Rosé Pine theme. The original `#191724` base 
 
 ### Kanagawa Wave Darker & Kanagawa (no italics) Darker
 
-Darkened variants of the Kanagawa Wave theme. Backgrounds deepened by ~19 per RGB channel.
+Darkened variants of the Kanagawa Wave theme. Backgrounds deepened by ~17 per RGB channel.
 
 **Credits:**
 - Original Kanagawa theme by [rebelot](https://github.com/rebelot/kanagawa.nvim)
@@ -22,14 +22,14 @@ Darkened variants of the Kanagawa Wave theme. Backgrounds deepened by ~19 per RG
 
 ### JetBrains Dark Darker & JetBrains Islands Dark Darker
 
-Darkened variants of the JetBrains Dark and Islands Dark themes. Backgrounds deepened by ~19 per RGB channel.
+Darkened variants of the JetBrains Dark and Islands Dark themes. Backgrounds deepened by ~17 per RGB channel.
 
 **Credits:**
 - Original JetBrains themes by [Artem Evsevev](https://github.com/artemevsevev) — [zed-theme-jetbrains](https://github.com/artemevsevev/zed-theme-jetbrains)
 
 ### Ayu Dark Darker
 
-A darkened variant of the Ayu Dark theme. Backgrounds deepened by ~19 per RGB channel. Used as the darkness reference for all other themes.
+A darkened variant of the Ayu Dark theme. Backgrounds deepened by ~17 per RGB channel. Used as the darkness reference for all other themes.
 
 **Credits:**
 - Original Ayu theme by [Zed Industries](https://github.com/zed-industries/zed) — [assets/themes/ayu](https://github.com/zed-industries/zed/tree/main/assets/themes/ayu)
