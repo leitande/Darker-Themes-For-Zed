@@ -197,6 +197,6 @@ if __name__ == "__main__":
 
     input_path = sys.argv[1]
     output_path = sys.argv[2]
-    amount = int(sys.argv[3]) if len(sys.argv) > 3 else 10
+    amount = int(sys.argv[3]) if len(sys.argv) > 3 else 19
 
     process_theme(input_path, output_path, amount)
