@@ -38,7 +38,7 @@ A darkened variant of the Ayu Dark theme. Backgrounds deepened by ~17 per RGB ch
 
 1. Clone or download the theme `.json` files
 2. Place them in `~/.config/zed/themes/`
-3. Select the theme in Zed via `Ctrl+K T`
+3. Select the theme in Zed from the theme selector
 
 ## License
 
